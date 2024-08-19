@@ -10,7 +10,7 @@ ADD YOUR NAME HERE TO COMPLETE THE TUTORIAL
 
 2 --> Prantik Maitra
 
-3 --> 
+3 --> Ritik Raj
 
 4 -->
 
